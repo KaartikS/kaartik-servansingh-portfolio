@@ -1,2 +1,2 @@
-# Kaartik-Servansingh-s-Portfolio
+# kaartik-Servansingh-portfolio
 My Website
